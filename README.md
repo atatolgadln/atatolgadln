@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Whattyu
+### Hi there 👋 I'm Ata Tolga
 
 ![whattyu's profile](https://komarev.com/ghpvc/?username=whattyu&color=blueviolet)
 
